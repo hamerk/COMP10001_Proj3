@@ -373,3 +373,4 @@ def play(rnd, hand, discard, holding, generate=generate_plays,
             return play
 
     return None
+    
